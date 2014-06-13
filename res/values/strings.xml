@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name" translatable="false">GooDDog</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="marionn" translatable="false">Marionn</string>
+    <string name="quit" translatable="false">Выход</string>
+    <string name="training" translatable="false">Обучение командам</string>
+    <string name="accessories" translatable="false">Аксессуары для дрессировки</string>
+
+</resources>
